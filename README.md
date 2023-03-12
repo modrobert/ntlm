@@ -7,7 +7,7 @@
 
 ### Description
 
-C program which Calculate NTLM hash for given string with UTF-8 support.
+C program which calculate NTLM hash for given string with UTF-8 support.
 
 ---
 
