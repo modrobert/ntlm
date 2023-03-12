@@ -16,7 +16,7 @@ C program which calculate NTLM hash for given string with UTF-8 support.
 <pre>
 $ ntlm
 ntlm v0.10 by modrobert in 2023
-Syntax: ntlm <string>
+Syntax: ntlm &lt;string&gt;
 </pre>
 
 ---
